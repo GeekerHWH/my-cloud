@@ -1,4 +1,7 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# my-cloud built with Next.js
+
+## project structure
+[next.js project structure](https://nextjs.org/docs/app/getting-started/project-structure)
 
 ## Getting Started
 
